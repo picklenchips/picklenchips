@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ben and I'm an undergraduate at Stanford University pursuing a B.S. Physics (Quantum Information) and an M.S. in Computer Science (ML / AI).
+I'm an undergraduate at Stanford University pursuing a B.S. Physics (Quantum Information) and an M.S. in Computer Science (ML / AI).
 
 My projects, listed from most recent to least recent:
 1. a reinforcement learning algorithm to learn market-making in a high-frequency trading environment! (check out [MARKET-MAKING-RL]([url](https://github.com/picklenchips/MARKET-MAKING-RL)))
