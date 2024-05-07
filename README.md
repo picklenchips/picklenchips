@@ -5,7 +5,8 @@ My name is Ben and I'm an undergraduate at Stanford University pursuing a B.S. P
 My projects, listed from most recent to least recent:
 1. a reinforcement learning algorithm to learn market-making in a high-frequency trading environment! (check out [MARKET-MAKING-RL]([url](https://github.com/picklenchips/MARKET-MAKING-RL)))
 2. a graph neural network to track particles in CERN's ALICE experiment ([halfcaf/ALICE-EATS-AN-APPLE]([url](https://github.com/halfcaf12/ALICE-EATS-AN-APPLE/tree/main)))
-i. where I also made a ROOT file processor in C to translate from CERN's data while their VM was under repair
+
+  i. where I also made a ROOT file processor in C to translate from CERN's data while their VM was under repair
 3. HTML/Katex to Latex converter, for exporting Notion files to .tex files
 
 Other interests:
