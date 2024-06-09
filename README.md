@@ -10,7 +10,7 @@ My projects, listed from highest to least priority:
 
 Other interests:
 - **Sports**: Rock climbing, Skiing, Soccer, XC Running
-- **Video Games**: Minecraft, 3 Billion Humans
+- **Video Games**: Minecraft, Hades, 3 Billion Humans
 <!--
 **picklenchips/picklenchips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
