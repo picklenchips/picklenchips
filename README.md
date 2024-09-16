@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an undergraduate at Stanford University pursuing a B.S. Physics (Quantum Information) and an M.S. in Computer Science (ML / AI).
+I'm an undergraduate at Stanford University pursuing a B.S. Physics (Quantum Information) and an M.S. in Applied Physics (Quantum Engineering).
 
 My projects, listed from highest to least priority:
 1. I am currently building a web application that runs quantum algorithm optimization on various electrical grid problems, at [QUANTUM-GRID-CLIMATE](https://github.com/picklenchips/QUANTUM-GRID-CLIMATE)
