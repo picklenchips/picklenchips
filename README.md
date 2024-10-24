@@ -10,7 +10,7 @@ I'm an undergraduate at Stanford University pursuing a B.S. Physics (Quantum Inf
 
 Other interests:
 - **Sports**: Rock climbing, Skiing, Soccer, XC Running
-- **Video Games**: Minecraft, Hades, 3 Billion Humans
+- **Video Games**: Minecraft, Deadcells, Hades, 3 Billion Humans
 <!--
 **picklenchips/picklenchips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
