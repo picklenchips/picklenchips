@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm an undergraduate at Stanford University pursuing a B.S. Physics (Quantum Information) and an M.S. in Applied Physics (Quantum Engineering).
-I am currently researching with the [Choi Group](https://choilab.stanford.edu/) at Stanford on netural-atom quantum computing experiments.
+I am currently researching with the [Choi Group](https://choilab.stanford.edu/) at Stanford on neutral-atom quantum computing experiments.
 
 #### 🔭 Projects 🔭
 1. Building a web application that runs quantum algorithm optimization on various electrical grid problems, at [QUANTUM-GRID-CLIMATE](https://github.com/picklenchips/QUANTUM-GRID-CLIMATE)
