@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a coterminal student at Stanford University with a B.S. Physics (Quantum Information) '25 and an M.S. in Applied Physics (Quantum Engineering).
+I'm a coterminal student at Stanford University pursuing an M.S. in Applied Physics (Quantum Engineering) after graduating with a B.S. in Physics (Quantum Information) in 2025.
 I was recently researching with the [Choi Group](https://choilab.stanford.edu/) at Stanford on their neutral-atom quantum computing experiment, and am now working with the [Hollberg Group](https://hollberglab.sites.stanford.edu/) on their Ytterbium magnetometer.
 
 #### 🔭 Projects 🔭
