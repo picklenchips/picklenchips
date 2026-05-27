@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-I'm a coterminal student at Stanford University pursuing an M.S. in Applied Physics (Quantum Engineering) after graduating with a B.S. in Physics (Quantum Information) in 2025.
-I was recently researching with the [Choi Group](https://choilab.stanford.edu/) at Stanford on their neutral-atom quantum computing experiment, and am now working with the [Hollberg Group](https://hollberglab.sites.stanford.edu/) on their Ytterbium magnetometer.
+I'm currently a Seismic Imaging Analyst at [Viridien](https://www.viridiengroup.com/data/seismic-data/gulf-mexico-seismic-reimaging).
+
+I recently graduated from Stanford with an my M.S. in Applied Physics '26 and a B.S. in Physics (Quantum Information) '25.
 
 #### 🔭 Projects 🔭
+1. YbMag: digital twin for the [Hollberg Group](https://hollberglab.sites.stanford.edu/)'s Ytterbium magnetometer experiment.
+1. 
+1. Optical holography with the [Choi Group](https://choilab.stanford.edu/) on their neutral-atom quantum computing experiment.
 1. Building a web application that runs quantum algorithm optimization on various electrical grid problems, at [QUANTUM-GRID-CLIMATE](https://github.com/picklenchips/QUANTUM-GRID-CLIMATE)
 1. A reinforcement learning algorithm to learn market-making in a high-frequency trading environment, at [MARKET-MAKING-RL](https://github.com/picklenchips/MARKET-MAKING-RL)
 1. A graph neural network to track particles in CERN's ALICE experiment [halfcaf/ALICE-EATS-AN-APPLE](https://github.com/halfcaf12/ALICE-EATS-AN-APPLE/tree/main)
